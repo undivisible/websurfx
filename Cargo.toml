@@ -3,7 +3,7 @@ name = "websurfx"
 version = "1.29.9"
 edition = "2024"
 description = "An open-source alternative to Searx that provides clean, ad-free, and organic results with incredible speed while keeping privacy and security in mind."
-repository = "https://github.com/tschk/websurfx"
+repository = "https://github.com/undivisible/websurfx"
 license = "AGPL-3.0"
 
 [[bin]]
